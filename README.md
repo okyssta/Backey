@@ -232,7 +232,7 @@ plugins/Backey/
 ### Build Steps
 
 ```bash
-git clone https://github.com/kyssta-exe/backey.git
+git clone https://github.com/okyssta/backey.git
 cd backey
 mvn clean package
 ```
@@ -257,7 +257,7 @@ The compiled JAR will be in the `target/` directory.
 
 ## Support
 
-- **Issues**: Report bugs on the [GitHub Issues](https://github.com/kyssta-exe/backey/issues) page
+- **Issues**: Report bugs on the [GitHub Issues](https://github.com/okyssta/backey/issues) page
 - **Documentation**: Check this README and the configuration comments
 - **Community**: Join our Discord server for community support
 
